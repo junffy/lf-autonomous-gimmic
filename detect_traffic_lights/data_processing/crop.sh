@@ -1,4 +1,4 @@
-source=crop_face.py
+source=crop_traffic_light.py
 echo traffic lights crop processing...
 for f in *.png *.PNG *.jpg *.jpeg *.JPG *.JPEG 
 do
